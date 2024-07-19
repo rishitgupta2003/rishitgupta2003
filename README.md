@@ -1,8 +1,8 @@
--- Hi there 👋
+# 👋 Hello
 
-- 🔭 Hi, I'm Rishit Gupta
-- 🌱 I’m currently diving deep in Development
-- ⚡ Fun fact: I use this 🌀 a lot
+- 🔭 _Hi, I'm Rishit Gupta_
+- 🌱 _I’m currently diving deep in Development_
+- ⚡ _Fun fact: I use this 🌀 a lot_
 
 <!--
 **rishitgupta2003/rishitgupta2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
