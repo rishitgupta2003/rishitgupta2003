@@ -1,7 +1,7 @@
 # 👋 Hello
 
-- 🔭 _Hi, I'm Rishit Gupta_
-- 🌱 _I’m currently diving deep in Development_
+- 🔭 _Hi, I'm Rishit_
+- 🌱 _I’m currently diving deep into the Development_
 - ⚡ _Fun fact: I use this 🌀 a lot_
 
 <!--
