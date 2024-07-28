@@ -1,4 +1,4 @@
-# ```👋 Hello```
+# 👋 Hello
 
 - 🔭 _Hi, I'm Rishit_
 - 🌱 _I’m currently diving deep into the Development_
